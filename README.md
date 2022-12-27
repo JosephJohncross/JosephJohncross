@@ -1,10 +1,7 @@
 ### Hi there 👋
-## I am Joseph 
-
 
 
  I am a full stack developer.
- Currently studying to obtain my BSc in Computer Engineering
  
  ### Languages
 
