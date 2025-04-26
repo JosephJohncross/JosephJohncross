@@ -2,11 +2,11 @@
 ## Welcome, I am Joseph Ibochi.<br>
 <!--   <p align="left"> <img src="https://komarev.com/ghpvc/?username=JosephJohncross&label=Profile%20views&color=4E2A84&style=flat-cube" alt="JosephJohncross" /></p> -->
 <!-- ![coding](https://user-images.githubusercontent.com/30289772/208741012-2b7d9c93-0a2d-4e3d-af2d-e10bf319bbfd.gif)<br> -->
-🌱 I’m a Fullstack Web Developer<br>
+🌱 I’m a Fullstack Web Developer (Exploring the Web3 space as of the moment)<br>
 :four_leaf_clover: Majoring in API development and security and their consumption <br>
 ⚡ Passionate and obsessed with continuous growth, self-improvement and collaboration<br>
-👯 I’m open to collaboration on both frontend and backend projects<br>
-:checkered_flag: Started learning about software architecture, design patterns and overall application performance
+👯 I’m open to collaboration on both backend, AI and Web3 projects<br>
+:checkered_flag: Software architecture, Application performance
 🤔 I prefer working remotely or in a hybrid setup! 🤩<br>
 
 
